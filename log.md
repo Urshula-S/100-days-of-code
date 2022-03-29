@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+My projects deployed on netlify : 
+- 1 Tribute page : https://fcc-tributepage-us.netlify.app/
+- 2 Survey form : https://fcc-surveyform-us.netlify.app/
+- 3 Product landing page : 
+
+
 ### Day 1: March 21 , 2022 Monday
 - Work done : I continued freecode camp : responsive web design course - I have worked on it for a week or so.  I have realised the basic tribute page. It was a test. In plain HTML and CSS and without no frameworks. Must improve the responsiveness of the page. And fix the padding & margins of the page. 
 - Link to work : https://github.com/Urshula-S/Tribute-Page 
