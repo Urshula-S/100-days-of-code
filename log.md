@@ -3,7 +3,7 @@
 My projects deployed on netlify : 
 - 1 Tribute page : https://fcc-tributepage-us.netlify.app/
 - 2 Survey form : https://fcc-surveyform-us.netlify.app/
-- 3 Product landing page : 
+- 3 Product landing page :
 
 
 ### Day 1: March 21 , 2022 Monday
