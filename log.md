@@ -35,7 +35,13 @@ My projects deployed on netlify :
 - Link to my work : https://github.com/Urshula-S/FCC-SurveyForm
 
 ### Day 9 : March 29 , 2022 Tuesday
+- Work done : I ended the CSS grid chapter on freecode camp. And started to work on another project that consists in realising a product landing page. I want to make it full responsive. 
+- Link to my work : https://github.com/Urshula-S/FCC-ProductLandingPage
+
 ### Day 10 : March 30 , 2022 Wednesday
+- Work done : worked completely on my project dedicated to a product landing page. The main frame is done. But I need to end one section and then make it responsive.
+- Link to my work : https://github.com/Urshula-S/FCC-ProductLandingPage
+
 ### Day 11 : March 31 , 2022 Thursday 
 ### Day 12 : April 01 , 2022 Friday
 ### Day 13 : April 02 , 2022 Saturday
