@@ -42,7 +42,9 @@ My projects deployed on netlify :
 - Work done : worked completely on my project dedicated to a product landing page. The main frame is done. But I need to end one section and then make it responsive.
 - Link to my work : https://github.com/Urshula-S/FCC-ProductLandingPage
 
-### Day 11 : March 31 , 2022 Thursday 
+### Day 11 : March 31 , 2022 Thursday
+- Work done : no work done was not able to work on code. 
+
 ### Day 12 : April 01 , 2022 Friday
 ### Day 13 : April 02 , 2022 Saturday
 ### Day 14 : April 03 , 2022 Sunday
