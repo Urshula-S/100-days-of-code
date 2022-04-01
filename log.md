@@ -3,7 +3,9 @@
 My projects deployed on netlify : 
 - 1 Tribute page : https://fcc-tributepage-us.netlify.app/
 - 2 Survey form : https://fcc-surveyform-us.netlify.app/
-- 3 Product landing page :
+- 3 Product landing page : https://fcc-productlandingpage.netlify.app/
+- 4 
+- 5 
 
 
 ### Day 1: March 21 , 2022 Monday
@@ -46,6 +48,9 @@ My projects deployed on netlify :
 - Work done : no work done was not able to work on code. 
 
 ### Day 12 : April 01 , 2022 Friday
+- Work done : ended the product landing page project. Made it responsive. Just with one media query : max-width: 800px. Deployed it on netlify. 
+- Link to my work : https://github.com/Urshula-S/FCC-ProductLandingPage
+
 ### Day 13 : April 02 , 2022 Saturday
 ### Day 14 : April 03 , 2022 Sunday
 ### Day 15 : April 04 , 2022 Monday
