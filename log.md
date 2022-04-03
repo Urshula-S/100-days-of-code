@@ -52,6 +52,10 @@ My projects deployed on netlify :
 - Link to my work : https://github.com/Urshula-S/FCC-ProductLandingPage
 
 ### Day 13 : April 02 , 2022 Saturday
+- Work done : no work done
+
 ### Day 14 : April 03 , 2022 Sunday
+- Work done : started the project about the portfolio project in HTML CSS. 
+- Link to my work : 
 ### Day 15 : April 04 , 2022 Monday
 
