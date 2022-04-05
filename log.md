@@ -57,5 +57,7 @@ My projects deployed on netlify :
 ### Day 14 : April 03 , 2022 Sunday
 - Work done : started the project about the portfolio project in HTML CSS. 
 - Link to my work : 
-### Day 15 : April 04 , 2022 Monday
 
+### Day 15 : April 04 , 2022 Monday
+- Work done : continued to work on the portfolio project but did not push it on git and tested it to know what I have to improve. Still working on html and css.
+- Link to my work : 
