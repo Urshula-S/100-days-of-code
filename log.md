@@ -56,15 +56,15 @@ My projects deployed on netlify :
 
 ### Day 14 : April 03 , 2022 Sunday
 - Work done : started the project about the portfolio project in HTML CSS. 
-- Link to my work : 
+- Link to my work : https://github.com/Urshula-S/FCC-PortfolioPage
 
 ### Day 15 : April 04 , 2022 Monday
 - Work done : continued to work on the portfolio project but did not push it on git and tested it to know what I have to improve. Still working on html and css.
-- Link to my work : 
+- Link to my work : https://github.com/Urshula-S/FCC-PortfolioPage
 
 ### Day 16 : April 05, 2022 Tuesday
-- Work done : finished to work on the portfolio project, added some media query and pushed it on github. 
-- Link to my work : 
+- Work done : finished to work on the portfolio project, added some media query and pushed it on github. And started to work on javascript
+- Link to my work : https://github.com/Urshula-S/FCC-PortfolioPage
 
 ### Day 17 : April 06, 2022 Wednesday
 ### Day 18 : April 07, 2022 Thursday
