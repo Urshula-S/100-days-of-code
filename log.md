@@ -61,3 +61,22 @@ My projects deployed on netlify :
 ### Day 15 : April 04 , 2022 Monday
 - Work done : continued to work on the portfolio project but did not push it on git and tested it to know what I have to improve. Still working on html and css.
 - Link to my work : 
+
+### Day 16 : April 05, 2022 Tuesday
+- Work done : finished to work on the portfolio project, added some media query and pushed it on github. 
+- Link to my work : 
+
+### Day 17 : April 06, 2022 Wednesday
+### Day 18 : April 07, 2022 Thursday
+### Day 19 : April 08, 2022 Friday
+### Day 20 : April 09, 2022 Saturday
+### Day 21 : April 10, 2022 Sunday
+### Day 22 : April 11, 2022 Monday
+### Day 23 : April 12, 2022 Tuesday
+### Day 24 : April 13, 2022 Wednesday
+### Day 25 : April 14, 2022 Thursday
+### Day 26 : April 15, 2022 Friday
+### Day 27 : April 16, 2022 Saturday
+### Day 28 : April 17, 2022 Sunday
+### Day 29 : April 18, 2022 Monday
+### Day 30 : April 19, 2022 Tuesday
