@@ -67,6 +67,8 @@ My projects deployed on netlify :
 - Link to my work : https://github.com/Urshula-S/FCC-PortfolioPage
 
 ### Day 17 : April 06, 2022 Wednesday
+- Work done : worked on a project made with bootstrap. and continued to learn a bit more javascript. 
+- Link to my work : 
 ### Day 18 : April 07, 2022 Thursday
 ### Day 19 : April 08, 2022 Friday
 ### Day 20 : April 09, 2022 Saturday
